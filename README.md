@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/ArturMaia/Cinema/blob/main/Cinema.jpeg" alt="Filmes" style="width: 150px; border-radius: 10px;">
+  <img src="https://github.com/ArturMaia/Cinema/blob/main/Cinema.jpeg" alt="pipoca" style="width: 150px; border-radius: 10px;">
 </p>
 
 # Recomendador de Filmes
