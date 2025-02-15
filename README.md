@@ -2,7 +2,7 @@
   <img src="https://github.com/ArturMaia/Cinema/blob/main/Cinema.jpeg" alt="pipoca" style="width: 150px; border-radius: 10px;">
 </p>
 
-# Recomendador de Filmes
+# Sistema de recomendação de filmes
 
 O **Recomendador de Filmes** é um projeto de ciência de dados que utiliza técnicas de aprendizado de máquina para sugerir filmes aos usuários com base em suas preferências e no histórico de avaliações de outros usuários. O projeto foi desenvolvido com o objetivo de explorar dados de filmes e avaliações, aplicar análises exploratórias e construir um sistema de recomendação eficiente.
 Dados: [Link](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset/data)
